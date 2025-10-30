@@ -24,9 +24,12 @@ header p {
 }
 
 .about img {
-  width: 150px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
-  margin: 20px 0;
+  border: 4px solid #b57cff;
+  display: block;
+  margin: 0 auto 15px;
 }
 
 section {
